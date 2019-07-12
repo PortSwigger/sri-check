@@ -114,6 +114,9 @@ Copyright (c) 2018 SolomonSklash""")
 
         return matches
 
+    def doActiveScan(self, baseRequestResponse, insertionPoint):
+	pass
+
     # 'The Scanner invokes this method for each base request/response that is
     # passively scanned'
     # passing the self object as well for access to helper functions, etc.

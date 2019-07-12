@@ -1,0 +1,11 @@
+Uuid: 2e3a9895bb9b41f8b8a1193ec0399d3d
+ExtensionType: 2
+Name: SRI Check
+RepoName: sri-check
+ScreenVersion: 1.4.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: Solomon Sklash
+ShortDescription: Identifies missing Subresource Integrity attributes
+EntryPoint: sri-check.py
